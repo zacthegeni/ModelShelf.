@@ -1,0 +1,1 @@
+{"root":["./src/main/index.ts","./src/main/metadata.ts","./src/main/watcher.ts","./src/preload/index.ts","./src/renderer/global.d.ts","./src/renderer/App.tsx","./src/renderer/main.tsx","./src/renderer/components/DetailsPanel.tsx","./src/renderer/components/ModelGrid.tsx","./src/renderer/components/StlViewer.tsx","./electron.vite.config.ts"],"version":"5.7.3"}
